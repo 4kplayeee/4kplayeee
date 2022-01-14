@@ -1,6 +1,6 @@
 <img src="https://github.com/RedenticDev/RedenticDev/blob/master/Me.png?raw=true" width=100 alt="Redentic's Profile Picture">
 
-## Hi, I'm Redentic 👋
+## Hi, I'm polo 👋
 I'm a French tweak developer who started contributing to the community in [March 2020](https://github.com/RedenticDev/SBColors). I really love programming & have skills in Java, C and many more. Jailbroken since iOS 11 and enjoying tweaks, I thought, "why not starting developing them?", and **here I am**.
 
 ### 🙌 My contribution to the community
@@ -21,6 +21,6 @@ I'm available on [Twitter](https://twitter.com/RedenticDev), [Reddit](https://ww
 
 ### 📊 Stats
 <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedenticDev&hide=Makefile&layout=compact&hide_border=true&theme=react&bg_color=30,659999,f4791f&title_color=fff&text_color=fff" alt="Redentic's Most Used Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedenticDev&hide_title=true&show_icons=true&hide_border=true&line_height=25&count_private=true&include_all_commits=true&bg_color=30,f4791f,659999&title_color=fff&text_color=fff&icon_color=fff" alt="Redentic's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kplayeee&hide=Makefile&layout=compact&hide_border=true&theme=react&bg_color=30,659999,f4791f&title_color=fff&text_color=fff" alt="Redentic's Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=4kplayeee&hide_title=true&show_icons=true&hide_border=true&line_height=25&count_private=true&include_all_commits=true&bg_color=30,f4791f,659999&title_color=fff&text_color=fff&icon_color=fff" alt="Redentic's GitHub Stats">
 </span>
