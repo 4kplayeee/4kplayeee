@@ -8,15 +8,12 @@ I've only done, I only do and will only do *free tweaks*, because I think the co
 
 ### 🎯 My aims
 - Free and open-source software
-- High customization
-- Widest possible range of supported versions
+- Making The world a Better Place
+- making Free Software For The Community
 - Quick support
 
-### 📖 Languages I've practiced
-Java, C, Objective-C (& Logos), HTML, CSS, JS, Swift (not that much), Shell (Bash & Batch), JSON, Python (G.O.A.T), Kotlin, SQL & R (hate this).
-
-### 💻 Repo & social media
-**My repo : [redentic.dev](https://redentic.dev)** _(available [here](https://github.com/RedenticDev/Repo))_  
+### 💻 Coco Tweaks & Social media
+**Coco Tweaks github : [redentic.dev](https://github.com/cocotweaks)** _(available [here](https://github.com/RedenticDev/Repo))_  
 I'm available on [Twitter](https://twitter.com/RedenticDev), [Reddit](https://www.reddit.com/user/redentic), [GitHub](https://github.com/RedenticDev), [Paypal](https://www.paypal.me/redenticdev) & [Mail](mailto:redenticdev@gmail.com).
 
 ### 📊 Stats
