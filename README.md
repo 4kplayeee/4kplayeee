@@ -1,4 +1,4 @@
-<img src="https://ai.cocotweaks.net/co.png" width=100 alt="Redentic's Profile Picture">
+<img src="https://ai.cocotweaks.net/coc.png" width=100 alt="Redentic's Profile Picture">
 
 ## Hi, I'm polo 👋
 I'm a French tweak developer who started contributing to the community in [March 2020](https://github.com/RedenticDev/SBColors). I really love programming & have skills in Java, C and many more. Jailbroken since iOS 11 and enjoying tweaks, I thought, "why not starting developing them?", and **here I am**.
