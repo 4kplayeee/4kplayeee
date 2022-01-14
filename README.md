@@ -13,7 +13,7 @@ I've only done, I only do and will only do *free tweaks*, because I think the co
 - Quick support
 
 ### 💻 Coco Tweaks & Social media
-<center>**[Coco Tweaks Github](https://github.com/cocotweaks)** </center>
+<center>**[Coco Tweaks Github](https://github.com/cocotweaks)**
 I'm available on [Twitter](https://twitter.com/roarijo89tweaks), [GitHub](https://github.com/4kplayeee/), [Support Development](https://donations.cocotweaks.net) & [Mail](mailto:cocotweaks@gmail.com).
 
 ### 📊 Stats
