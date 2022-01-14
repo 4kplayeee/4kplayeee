@@ -1,16 +1,10 @@
 <img src="https://ai.cocotweaks.net/coc.png" width=100 alt="Redentic's Profile Picture">
 
 ## Hi, I'm polo 👋
-I'm a French tweak developer who started contributing to the community in [March 2020](https://github.com/RedenticDev/SBColors). I really love programming & have skills in Java, C and many more. Jailbroken since iOS 11 and enjoying tweaks, I thought, "why not starting developing them?", and **here I am**.
-
-### 🙌 My contribution to the community
-I've only done, I only do and will only do *free tweaks*, because I think the community deserves it, and I've only been well received so far. I'm totally open-minded, so don't hesitate to: fork and PR my tweaks, send me suggestions, report bugs & issues, or simply talk with me through my social medias :)
 
 ### 🎯 My aims
-- Free and open-source software
 - Making The world a Better Place
 - making Free Software For The Community
-- Quick support
 
 ### 💻 Coco Tweaks & Social media
 **[Coco Tweaks Github](https://github.com/cocotweaks)**
