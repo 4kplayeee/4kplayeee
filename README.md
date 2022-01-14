@@ -14,7 +14,7 @@ I've only done, I only do and will only do *free tweaks*, because I think the co
 
 ### 💻 Coco Tweaks & Social media
 **[Coco Tweaks Github](https://github.com/cocotweaks)** _(available [here](https://github.com/RedenticDev/Repo))_  
-I'm available on [Twitter](https://twitter.com/RedenticDev), [Reddit](https://www.reddit.com/user/redentic), [GitHub](https://github.com/RedenticDev), [Paypal](https://www.paypal.me/redenticdev) & [Mail](mailto:redenticdev@gmail.com).
+I'm available on [Twitter](https://twitter.com/roarijo89tweaks), [Reddit](https://www.reddit.com/user/redentic), [GitHub](https://github.com/4kplayeee/), [Donations](https://donations.cocotweaks.net) & [Mail](mailto:cocotweaks@gmail.com).
 
 ### 📊 Stats
 <span>
