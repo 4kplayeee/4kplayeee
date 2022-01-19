@@ -11,6 +11,11 @@
 I'm available on [Twitter](https://twitter.com/roarijo89tweaks), [GitHub](https://github.com/4kplayeee/), [Support Development](https://donations.cocotweaks.net) & [Mail](mailto:cocotweaks@gmail.com).
 
 ### 📊 Stats
+
+[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/roarijo89tweaks?style=social)](https://twitter.com/roarijo89tweaks)
+
+[![GitHub KevinAlavik](https://img.shields.io/github/followers/4kplayeee?label=follow&style=social)](https://github.com/4kplayeee)
+
 ![stats1](https://github-readme-stats.vercel.app/api?username=4kplayeee&theme=radical&show_icons=true&count_private=true)
 
 ![Stats2](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4kplayeee&theme=solarized_dark)
