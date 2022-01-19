@@ -12,11 +12,11 @@ I'm available on [Twitter](https://twitter.com/roarijo89tweaks), [GitHub](https:
 
 ### 📊 Stats
 
-[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/roarijo89tweaks?style=social)](https://twitter.com/roarijo89tweaks)
+[![Twitter: Coco Tweaks](https://img.shields.io/twitter/follow/roarijo89tweaks?style=social)](https://twitter.com/roarijo89tweaks)
 
-[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/RepoCoco?style=social)](https://twitter.com/RepoCoco)
+[![Twitter: Community-Repo](https://img.shields.io/twitter/follow/RepoCoco?style=social)](https://twitter.com/RepoCoco)
 
-[![Twitter: UseUpStore](https://img.shields.io/twitter/follow/coco_store_?style=social)](https://twitter.com/coco_store_)
+[![Twitter: Coco store](https://img.shields.io/twitter/follow/coco_store_?style=social)](https://twitter.com/coco_store_)
 
 [![GitHub KevinAlavik](https://img.shields.io/github/followers/4kplayeee?label=follow&style=social)](https://github.com/4kplayeee)
 
