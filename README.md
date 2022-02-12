@@ -8,15 +8,15 @@
 
 ### 💻 Coco Tweaks & Social media
 **[Coco Tweaks Github](https://github.com/cocotweaks)**
-I'm available on [Twitter](https://twitter.com/roarijo89tweaks), [GitHub](https://github.com/4kplayeee/), [Support Development](https://donations.cocotweaks.net) & [Mail](mailto:cocotweaks@gmail.com).
+I'm available on [Twitter](https://twitter.com/cocotweaks), [GitHub](https://github.com/4kplayeee/), [Support Development](https://donations.cocotweaks.net) & [Mail](mailto:roarijo89@cocotweaks.net).
 
 ### 📊 Stats
 
-[![Twitter: Coco Tweaks](https://img.shields.io/twitter/follow/roarijo89tweaks?style=social)](https://twitter.com/roarijo89tweaks)
+[![Twitter: Coco Tweaks](https://img.shields.io/twitter/follow/cocotweaks?style=social)](https://twitter.com/cocotweaks)
 
 [![Twitter: Community-Repo](https://img.shields.io/twitter/follow/RepoCoco?style=social)](https://twitter.com/RepoCoco)
 
-[![Twitter: Coco store](https://img.shields.io/twitter/follow/coco_store_?style=social)](https://twitter.com/coco_store_)
+[![Twitter: Coco store](https://img.shields.io/twitter/follow/Saleor_repo?style=social)](https://twitter.com/Saleor_repo)
 
 [![GitHub KevinAlavik](https://img.shields.io/github/followers/4kplayeee?label=follow&style=social)](https://github.com/4kplayeee)
 
