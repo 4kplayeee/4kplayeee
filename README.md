@@ -1,4 +1,4 @@
-<img src="https://ai.cocotweaks.net/coc.png" width=100 alt="Redentic's Profile Picture">
+<img src="https://ai.cocotweaks.net/coc.png" width=100 alt="Polo's Profile Picture">
 
 ## Hi, I'm polo 👋
 
